@@ -19,10 +19,10 @@ app.use(function (err, req, res, next) {
 });
 
 // assign route files to variables
-var customer = require('./routes/customer');
-var item = require('./routes/item');
-var order = require('./routes/order');
-var staff = require('./routes/staff');
+var customer = require('./routes/customer_routes');
+var item = require('./routes/item_routes');
+var order = require('./routes/order_routes');
+var staff = require('./routes/staff_routes');
 var customer_orders = require('./routes/customer-orders_routes');
 var home = require('./routes/home_routes');
 
