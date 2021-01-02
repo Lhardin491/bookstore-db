@@ -9,7 +9,7 @@
     "datatables.net-dt": "^1.10.16",
     "express": "^4.16.2",
     "mysql": "^2.15.0",
-    "npm": "^6.13.4",
+    "npm": "^6.14.6",
     "popper.js": "^1.14.1"
   },
   "devDependencies": {},
