@@ -4,10 +4,10 @@
   "description": "Frontend/Backend for CSE3330 Databases",
   "main": "configs.js",
   "dependencies": {
-    "body-parser": "^1.18.2",
+    "body-parser": "^1.20.1",
     "datatables.net": "^1.10.22",
     "datatables.net-dt": "^1.10.16",
-    "express": "^4.16.2",
+    "express": "^4.18.2",
     "mysql": "^2.15.0",
     "npm": "^6.14.6",
     "popper.js": "^1.14.1"
